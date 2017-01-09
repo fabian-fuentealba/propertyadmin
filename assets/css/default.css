@@ -1,0 +1,12 @@
+.layout,.navbar-default{box-shadow:0 0 7px #ccc}.modal-body,.modal-footer,.modal-header,body{background-color:#fff}.modal-title,.navbar-nav li{text-transform:uppercase;font-weight:bolder}.btn,.modal-title,.nav-tabs a,.navbar-nav li,.page-header h1{font-weight:bolder}*{font-family:'Titillium Web',sans-serif}.page-header h1{font-family:Lobster,cursive}.navbar-default{border-bottom:none}.sub-menu{padding-bottom:20px}.layout{border-radius:10px;padding:50px 20px;background-color: #f4f4f4;padding-bottom: 5px;}.modal-header{border-radius:5px 5px 0 0}.modal-footer{border-radius:0 0 5px 5px}.nav-tabs a{background-color:#f4f4f4!important}.fa-asterisk{color:#347BB7}.modal-body,.modal-header,.modal-footer{background-color: #f4f4f4;}
+.morecontent span {
+    display: none;
+}
+.morelink {
+    //display: block;
+}
+.tooltip-inner ul{
+       margin: 0;
+       padding: 5px;
+       text-align: left;
+    padding-left: 20px;
